@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 # To get this program to work and send an email
 # Install the python-dotenv library and create a .env file
 #       (remember to add the .env file to your .gitignore so no sensitive info is available online)
-#   Create 4 env variables (FROM_PASSWORD, APP_PASSWORD, RECIPIENT, SMTP_ADDRESS) and fill them in with the
+#   Create 4 env variables (FROM_EMAIL, APP_PASSWORD, RECIPIENT, SMTP_ADDRESS) and fill them in with the
 #  appropriate info
 # ex. SMTP_ADDRESS=smtp.gmail.com
 
